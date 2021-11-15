@@ -1,4 +1,4 @@
-# Hacker NewsClient
+# Hacker News
 
 ## Libraries references
 - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
