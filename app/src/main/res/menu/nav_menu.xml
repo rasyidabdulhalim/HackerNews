@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_dash"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Home" />
+    </group>
+    <group
+        android:menuCategory="secondary"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_top"
+            android:icon="@drawable/ic_top"
+            android:title="Top Stories" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_saved"
+            android:icon="@drawable/ic_bookmark"
+            android:title="My Favorite Stories" />
+    </group>
+</menu>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_bookmark.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_bookmark_border.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_comment.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_comment_small.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_dashboard.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_empty_bin.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_expand_more.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_interupt.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_no_wifi.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_share.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_thumb_up.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_thumb_up_small.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_time.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_top.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/ic_web_view.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/item_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/drawable/item_selector_bg.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/activity_news_details.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/fragment_banner.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/fragment_home.xml" value="0.28540305010893247" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/fragment_news_type.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_banner_item.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_banner_shimmer.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_category_shimmer.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_comment.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_comment_load.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_error.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_main_content.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_multi_normal_items_shimmer.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_normal_item.xml" value="0.5" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_normal_item_load.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_normal_item_shimmer.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_small_item.xml" value="0.5" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/layout_small_item_shimmer.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/nav_header.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/layout/seperator_view.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/menu/nav_menu.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/menu/news_details_menu.xml" value="0.2046875" />
+        <entry key="..\:/Users/Administrator/Documents/GitHub/HackerNewsClient-Android/app/src/main/res/menu/notif_menu.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
