@@ -1,4 +1,5 @@
 # Hacker News
+![COVER HNpng](https://user-images.githubusercontent.com/43528203/141760948-59e9f371-efc3-4dc2-9db8-fb674a93a410.png)
 
 ![gambar](https://user-images.githubusercontent.com/43528203/141756387-d38a48be-8dad-47c3-956d-ff61f87599a8.png)
 
